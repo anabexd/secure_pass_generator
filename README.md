@@ -9,3 +9,13 @@ Clone this repository and navigate to the project directory:
 ```sh
 git clone https://github.com/yourusername/secure_pass_generator.git
 cd secure_pass_generator
+```
+Install the required libraries:
+```sh
+pip install colorama pyperclip art
+```
+## Usage
+Run the program with:
+```sh
+python3 pass_generator.py
+```
